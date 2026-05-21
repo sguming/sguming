@@ -74,38 +74,9 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sguming/leaflet-layers-demo">leaflet-layers-demo</a></h3>
-      <p>Map layer and geospatial UI experiments.</p>
-      <p>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-        <img alt="Maps" src="https://img.shields.io/badge/Maps-0F766E?style=flat-square">
-        <img alt="UI" src="https://img.shields.io/badge/UI-2563EB?style=flat-square">
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sguming/langgraph-test">langgraph-test</a></h3>
-      <p>LangGraph and agent workflow prototypes.</p>
-      <p>
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square">
-        <img alt="Agents" src="https://img.shields.io/badge/Agents-0EA5E9?style=flat-square">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sguming/llm-router-test-dataset">llm-router-test-dataset</a></h3>
-      <p>LLM routing and dataset experiments.</p>
-      <p>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-        <img alt="LLM" src="https://img.shields.io/badge/LLM-7C3AED?style=flat-square">
-        <img alt="Dataset" src="https://img.shields.io/badge/Dataset-0F766E?style=flat-square">
-      </p>
-    </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3><a href="https://github.com/sguming/leetcode-sdp">leetcode-sdp</a></h3>
-      <p>Algorithm practice and SDP exercises.</p>
+      <p>LeetCode practice and SDP exercises, kept as the main public coding practice repository.</p>
       <p>
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-2563EB?style=flat-square">
@@ -115,25 +86,29 @@
   </tr>
 </table>
 
+<p>
+  Most product and client work is kept private, so this profile keeps public repositories intentionally small and focused.
+</p>
+
 ## GitHub Snapshot
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <strong>22</strong><br>
+      <strong>2</strong><br>
       Public repos
     </td>
     <td align="center" width="25%">
-      <strong>5</strong><br>
-      Followers
+      <strong>1</strong><br>
+      Private repo
     </td>
     <td align="center" width="25%">
       <strong>2021</strong><br>
       On GitHub since
     </td>
     <td align="center" width="25%">
-      <strong>TypeScript / Python</strong><br>
-      Main public languages
+      <strong>Python</strong><br>
+      Main public language
     </td>
   </tr>
 </table>
