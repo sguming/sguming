@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-stack developer</strong> focused on practical product engineering, AI-assisted workflows, and reliable delivery.
+  <strong>I build practical software systems across product, data, automation, and AI workflows.</strong>
 </p>
 
 <br>
@@ -33,18 +33,29 @@
       </ul>
     </td>
     <td width="42%" valign="top">
-      <h3>Current Focus</h3>
+      <h3>Now Building</h3>
       <p>
         <img alt="AI workflows" src="https://img.shields.io/badge/AI%20Workflows-7C3AED?style=flat-square">
         <img alt="Product engineering" src="https://img.shields.io/badge/Product%20Engineering-0F766E?style=flat-square">
         <img alt="Full stack" src="https://img.shields.io/badge/Full--Stack-2563EB?style=flat-square">
       </p>
-      <p>
-        I care about clean implementation, real product behavior, and shipping software that can be understood, maintained, and improved.
-      </p>
+      <ul>
+        <li>AI-assisted product workflows</li>
+        <li>Commerce and operations systems</li>
+        <li>Mobile-first user experiences</li>
+        <li>Developer automation and internal tools</li>
+      </ul>
     </td>
   </tr>
 </table>
+
+## Open To
+
+<p>
+  <img alt="Full-stack product engineering" src="https://img.shields.io/badge/Full--Stack%20Product%20Engineering-0F766E?style=for-the-badge">
+  <img alt="AI workflow prototyping" src="https://img.shields.io/badge/AI%20Workflow%20Prototyping-7C3AED?style=for-the-badge">
+  <img alt="Automation and internal tools" src="https://img.shields.io/badge/Automation%20%26%20Internal%20Tools-2563EB?style=for-the-badge">
+</p>
 
 ## Toolbox
 
@@ -61,13 +72,20 @@
 
 ## Featured Public Work
 
-| Project | Stack | Focus |
-| --- | --- | --- |
-| [leetcode-sdp](https://github.com/sguming/leetcode-sdp) | Python | Algorithm practice and SDP exercises |
-| [leaflet-layers-demo](https://github.com/sguming/leaflet-layers-demo) | TypeScript | Map layer and geospatial UI experiments |
-| [langgraph-test](https://github.com/sguming/langgraph-test) | Python | LangGraph and agent workflow prototypes |
-| [llm-router-test-dataset](https://github.com/sguming/llm-router-test-dataset) | TypeScript | LLM routing and dataset experiments |
-| [AI-coding](https://github.com/sguming/AI-coding) | HTML | AI coding experiments and prototypes |
+<p align="center">
+  <a href="https://github.com/sguming/leaflet-layers-demo">
+    <img width="420" alt="leaflet-layers-demo" src="https://github-readme-stats.vercel.app/api/pin/?username=sguming&repo=leaflet-layers-demo&theme=tokyonight&hide_border=true&border_radius=10">
+  </a>
+  <a href="https://github.com/sguming/langgraph-test">
+    <img width="420" alt="langgraph-test" src="https://github-readme-stats.vercel.app/api/pin/?username=sguming&repo=langgraph-test&theme=tokyonight&hide_border=true&border_radius=10">
+  </a>
+  <a href="https://github.com/sguming/llm-router-test-dataset">
+    <img width="420" alt="llm-router-test-dataset" src="https://github-readme-stats.vercel.app/api/pin/?username=sguming&repo=llm-router-test-dataset&theme=tokyonight&hide_border=true&border_radius=10">
+  </a>
+  <a href="https://github.com/sguming/leetcode-sdp">
+    <img width="420" alt="leetcode-sdp" src="https://github-readme-stats.vercel.app/api/pin/?username=sguming&repo=leetcode-sdp&theme=tokyonight&hide_border=true&border_radius=10">
+  </a>
+</p>
 
 ## Stats
 
@@ -75,6 +93,14 @@
   <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sguming&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sguming&layout=compact&theme=tokyonight&hide_border=true">
 </p>
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sguming/sguming/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sguming/sguming/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sguming/sguming/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## How I Work
 
