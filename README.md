@@ -72,27 +72,71 @@
 
 ## Featured Public Work
 
-<p align="center">
-  <a href="https://github.com/sguming/leaflet-layers-demo">
-    <img width="420" alt="leaflet-layers-demo" src="https://github-readme-stats.vercel.app/api/pin/?username=sguming&repo=leaflet-layers-demo&theme=tokyonight&hide_border=true&border_radius=10">
-  </a>
-  <a href="https://github.com/sguming/langgraph-test">
-    <img width="420" alt="langgraph-test" src="https://github-readme-stats.vercel.app/api/pin/?username=sguming&repo=langgraph-test&theme=tokyonight&hide_border=true&border_radius=10">
-  </a>
-  <a href="https://github.com/sguming/llm-router-test-dataset">
-    <img width="420" alt="llm-router-test-dataset" src="https://github-readme-stats.vercel.app/api/pin/?username=sguming&repo=llm-router-test-dataset&theme=tokyonight&hide_border=true&border_radius=10">
-  </a>
-  <a href="https://github.com/sguming/leetcode-sdp">
-    <img width="420" alt="leetcode-sdp" src="https://github-readme-stats.vercel.app/api/pin/?username=sguming&repo=leetcode-sdp&theme=tokyonight&hide_border=true&border_radius=10">
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sguming/leaflet-layers-demo">leaflet-layers-demo</a></h3>
+      <p>Map layer and geospatial UI experiments.</p>
+      <p>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+        <img alt="Maps" src="https://img.shields.io/badge/Maps-0F766E?style=flat-square">
+        <img alt="UI" src="https://img.shields.io/badge/UI-2563EB?style=flat-square">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sguming/langgraph-test">langgraph-test</a></h3>
+      <p>LangGraph and agent workflow prototypes.</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-7C3AED?style=flat-square">
+        <img alt="Agents" src="https://img.shields.io/badge/Agents-0EA5E9?style=flat-square">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sguming/llm-router-test-dataset">llm-router-test-dataset</a></h3>
+      <p>LLM routing and dataset experiments.</p>
+      <p>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+        <img alt="LLM" src="https://img.shields.io/badge/LLM-7C3AED?style=flat-square">
+        <img alt="Dataset" src="https://img.shields.io/badge/Dataset-0F766E?style=flat-square">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sguming/leetcode-sdp">leetcode-sdp</a></h3>
+      <p>Algorithm practice and SDP exercises.</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-2563EB?style=flat-square">
+        <img alt="Practice" src="https://img.shields.io/badge/Practice-0EA5E9?style=flat-square">
+      </p>
+    </td>
+  </tr>
+</table>
 
-## Stats
+## GitHub Snapshot
 
-<p>
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sguming&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sguming&layout=compact&theme=tokyonight&hide_border=true">
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>22</strong><br>
+      Public repos
+    </td>
+    <td align="center" width="25%">
+      <strong>5</strong><br>
+      Followers
+    </td>
+    <td align="center" width="25%">
+      <strong>2021</strong><br>
+      On GitHub since
+    </td>
+    <td align="center" width="25%">
+      <strong>TypeScript / Python</strong><br>
+      Main public languages
+    </td>
+  </tr>
+</table>
 
 ## Contribution Graph
 
