@@ -1,0 +1,68 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Depeng Sun GitHub profile banner</title>
+  <desc id="desc">A modern developer profile banner with gradient background, code cards, and product engineering labels.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#08111F"/>
+      <stop offset="0.38" stop-color="#123B52"/>
+      <stop offset="0.72" stop-color="#4B2A74"/>
+      <stop offset="1" stop-color="#0D9488"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(245 92) rotate(43.2) scale(320 190)">
+      <stop stop-color="#38BDF8" stop-opacity="0.54"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(880 282) rotate(140.7) scale(360 210)">
+      <stop stop-color="#A78BFA" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="160%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#020617" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#glowA)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#glowB)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="33" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+  <rect width="1200" height="360" rx="34" fill="url(#grid)"/>
+
+  <g opacity="0.78">
+    <circle cx="1022" cy="78" r="5" fill="#FDE68A"/>
+    <circle cx="1054" cy="78" r="5" fill="#5EEAD4"/>
+    <circle cx="1086" cy="78" r="5" fill="#C4B5FD"/>
+    <path d="M998 118H1112" stroke="#FFFFFF" stroke-opacity="0.24" stroke-width="8" stroke-linecap="round"/>
+    <path d="M998 146H1082" stroke="#FFFFFF" stroke-opacity="0.15" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="742" y="118" width="315" height="160" rx="22" fill="#07111F" fill-opacity="0.70" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <circle cx="774" cy="150" r="6" fill="#F87171"/>
+    <circle cx="795" cy="150" r="6" fill="#FBBF24"/>
+    <circle cx="816" cy="150" r="6" fill="#34D399"/>
+    <path d="M776 190L806 216L776 242" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M834 242H934" stroke="#5EEAD4" stroke-width="8" stroke-linecap="round"/>
+    <path d="M834 190H997" stroke="#FFFFFF" stroke-opacity="0.54" stroke-width="8" stroke-linecap="round"/>
+    <path d="M834 216H964" stroke="#C4B5FD" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <text x="82" y="126" fill="#BAE6FD" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700">FULL-STACK DEVELOPER</text>
+    <text x="78" y="190" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="68" font-weight="800">Depeng Sun</text>
+    <text x="82" y="237" fill="#DDEBFF" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="500">Product engineering, AI workflows, web, mobile, and backend systems.</text>
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" font-weight="700">
+    <rect x="82" y="274" width="142" height="38" rx="19" fill="#ECFEFF" fill-opacity="0.13" stroke="#A5F3FC" stroke-opacity="0.32"/>
+    <text x="108" y="299" fill="#ECFEFF">TypeScript</text>
+    <rect x="238" y="274" width="103" height="38" rx="19" fill="#ECFEFF" fill-opacity="0.13" stroke="#A5F3FC" stroke-opacity="0.32"/>
+    <text x="264" y="299" fill="#ECFEFF">React</text>
+    <rect x="355" y="274" width="105" height="38" rx="19" fill="#ECFEFF" fill-opacity="0.13" stroke="#A5F3FC" stroke-opacity="0.32"/>
+    <text x="381" y="299" fill="#ECFEFF">Python</text>
+    <rect x="474" y="274" width="168" height="38" rx="19" fill="#ECFEFF" fill-opacity="0.13" stroke="#A5F3FC" stroke-opacity="0.32"/>
+    <text x="500" y="299" fill="#ECFEFF">AI Tooling</text>
+  </g>
+</svg>
