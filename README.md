@@ -17,6 +17,20 @@
 
 <br>
 
+## GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sguming&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sguming&amp;theme=github">
+    <img alt="GitHub yearly contribution summary for sguming" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sguming&amp;theme=github" width="100%">
+  </picture>
+</p>
+
+<p>
+  Most product and client work is private, so the public profile highlights visible practice, tooling, and profile-maintained work.
+</p>
+
 <table>
   <tr>
     <td width="58%" valign="top">
@@ -85,41 +99,6 @@
     </td>
   </tr>
 </table>
-
-<p>
-  Most product and client work is kept private, so this profile keeps public repositories intentionally small and focused.
-</p>
-
-## GitHub Snapshot
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>2</strong><br>
-      Public repos
-    </td>
-    <td align="center" width="25%">
-      <strong>1</strong><br>
-      Private repo
-    </td>
-    <td align="center" width="25%">
-      <strong>2021</strong><br>
-      On GitHub since
-    </td>
-    <td align="center" width="25%">
-      <strong>Python</strong><br>
-      Main public language
-    </td>
-  </tr>
-</table>
-
-## Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sguming/sguming/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sguming/sguming/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sguming/sguming/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## How I Work
 
