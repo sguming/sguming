@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Depeng Sun - full-stack product engineer" width="100%">
-</p>
-
-<p align="center">
-  <strong>Full-stack product engineer building practical web, mobile, backend, automation, and AI systems.</strong>
+  <img src="./assets/profile-banner.png" alt="Depeng Sun - full-stack product engineer" width="100%">
 </p>
 
 <p align="center">
