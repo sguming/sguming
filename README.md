@@ -1,21 +1,59 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Depeng Sun - full-stack developer profile banner" width="100%">
+  <img src="./assets/profile-banner.svg" alt="Depeng Sun - full-stack product engineer" width="100%">
 </p>
 
 <p align="center">
-  <a href="mailto:shangguming@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-shangguming%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/sguming">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-sguming-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  <strong>Full-stack product engineer building practical web, mobile, backend, automation, and AI systems.</strong>
 </p>
 
 <p align="center">
-  <strong>I build practical software systems across product, data, automation, and AI workflows.</strong>
+  <a href="mailto:shangguming@gmail.com">Email</a> ·
+  <a href="https://github.com/sguming">GitHub</a>
 </p>
 
-<br>
+## About
+
+I turn product ideas into useful, maintainable systems—connecting interfaces, APIs, data flows, automation, deployment, and real-world behavior.
+
+- Build web and mobile products around clear user workflows
+- Design backend APIs, data models, authentication, and deployment pipelines
+- Prototype AI-assisted product workflows and developer tooling
+- Solve commerce, operations, maps, and location-based product problems
+
+## Current Focus
+
+- Shipping AI-assisted product workflows
+- Building commerce and operations systems
+- Designing mobile-first user experiences
+- Automating repetitive developer and business processes
+
+## Open To
+
+`Full-stack product engineering` · `AI workflow prototyping` · `Automation & internal tools`
+
+## Toolbox
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnodejs%2Cpython%2Cpostgres%2Caws%2Cdocker&amp;theme=dark&amp;perline=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnodejs%2Cpython%2Cpostgres%2Caws%2Cdocker&amp;theme=light&amp;perline=8">
+    <img alt="TypeScript, JavaScript, React, Node.js, Python, PostgreSQL, AWS, and Docker" src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnodejs%2Cpython%2Cpostgres%2Caws%2Cdocker&amp;theme=light&amp;perline=8">
+  </picture>
+</p>
+
+<p align="center">
+  TypeScript · JavaScript · React · Node.js · Python · PostgreSQL · AWS · Docker
+</p>
+
+## Selected Public Work
+
+### [leetcode-sdp](https://github.com/sguming/leetcode-sdp)
+
+Python solutions for selected LeetCode problems, organized by problem and implementation approach.
+
+`Python` · `Hash tables` · `Two pointers` · `Sliding windows`
+
+> Most production and client work lives in private repositories; this profile focuses on public practice and reusable tooling.
 
 ## GitHub Activity
 
@@ -27,85 +65,10 @@
   </picture>
 </p>
 
-<p>
-  Most product and client work is private, so the public profile highlights visible practice, tooling, and profile-maintained work.
-</p>
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <h3>What I Build</h3>
-      <p>
-        I like turning product ideas into working systems: user-facing interfaces, backend APIs,
-        data flows, automation, deployment, and the small details that make software useful in real life.
-      </p>
-      <ul>
-        <li>Web and mobile products with clear user workflows</li>
-        <li>Backend APIs, data models, auth, and deployment pipelines</li>
-        <li>AI agents, LLM tooling, and developer productivity experiments</li>
-        <li>Commerce, maps, operations, and location-based experiences</li>
-      </ul>
-    </td>
-    <td width="42%" valign="top">
-      <h3>Now Building</h3>
-      <p>
-        <img alt="AI workflows" src="https://img.shields.io/badge/AI%20Workflows-7C3AED?style=flat-square">
-        <img alt="Product engineering" src="https://img.shields.io/badge/Product%20Engineering-0F766E?style=flat-square">
-        <img alt="Full stack" src="https://img.shields.io/badge/Full--Stack-2563EB?style=flat-square">
-      </p>
-      <ul>
-        <li>AI-assisted product workflows</li>
-        <li>Commerce and operations systems</li>
-        <li>Mobile-first user experiences</li>
-        <li>Developer automation and internal tools</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## Open To
-
-<p>
-  <img alt="Full-stack product engineering" src="https://img.shields.io/badge/Full--Stack%20Product%20Engineering-0F766E?style=for-the-badge">
-  <img alt="AI workflow prototyping" src="https://img.shields.io/badge/AI%20Workflow%20Prototyping-7C3AED?style=for-the-badge">
-  <img alt="Automation and internal tools" src="https://img.shields.io/badge/Automation%20%26%20Internal%20Tools-2563EB?style=for-the-badge">
-</p>
-
-## Toolbox
-
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</p>
-
-## Featured Public Work
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3><a href="https://github.com/sguming/leetcode-sdp">leetcode-sdp</a></h3>
-      <p>LeetCode practice and SDP exercises, kept as the main public coding practice repository.</p>
-      <p>
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-2563EB?style=flat-square">
-        <img alt="Practice" src="https://img.shields.io/badge/Practice-0EA5E9?style=flat-square">
-      </p>
-    </td>
-  </tr>
-</table>
-
 ## How I Work
 
-```txt
-Build the smallest useful version -> verify real behavior -> improve with feedback -> keep the system maintainable.
-```
+> **Build small → verify real behavior → learn from feedback → keep it maintainable.**
 
-<p>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sguming&style=flat-square&color=0ea5e9">
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sguming&amp;style=flat-square&amp;color=0ea5e9">
 </p>
