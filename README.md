@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Product-minded full-stack engineer building practical systems across web, mobile, backend, automation, and AI workflows.</strong>
+  <strong>Full-stack product engineer building practical web, mobile, backend, automation, and AI systems.</strong>
 </p>
 
 <p align="center">
@@ -13,12 +13,12 @@
 
 ## About
 
-I turn product ideas into useful, maintainable software—from the interface and API to data flows, automation, deployment, and real-world behavior.
+I turn product ideas into useful, maintainable systems—connecting interfaces, APIs, data flows, automation, deployment, and real-world behavior.
 
 - Build web and mobile products around clear user workflows
 - Design backend APIs, data models, authentication, and deployment pipelines
-- Prototype AI-assisted workflows and developer tooling
-- Work across commerce, operations, maps, and location-based experiences
+- Prototype AI-assisted product workflows and developer tooling
+- Solve commerce, operations, maps, and location-based product problems
 
 ## Current Focus
 
@@ -49,11 +49,11 @@ I turn product ideas into useful, maintainable software—from the interface and
 
 ### [leetcode-sdp](https://github.com/sguming/leetcode-sdp)
 
-LeetCode practice and SDP exercises, maintained as the main public coding-practice repository.
+Python solutions for selected LeetCode problems, organized by problem and implementation approach.
 
-`Python` · `Algorithms` · `Problem solving`
+`Python` · `Hash tables` · `Two pointers` · `Sliding windows`
 
-> Most product and client work is private, so this profile highlights visible practice, tooling, and profile-maintained work.
+> Most production and client work lives in private repositories; this profile focuses on public practice and reusable tooling.
 
 ## GitHub Activity
 
