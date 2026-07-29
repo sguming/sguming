@@ -35,9 +35,9 @@ I turn product ideas into useful, maintainable software—from the interface and
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,postgres,aws,docker&amp;theme=dark&amp;perline=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,postgres,aws,docker&amp;theme=light&amp;perline=8">
-    <img alt="TypeScript, JavaScript, React, Node.js, Python, PostgreSQL, AWS, and Docker" src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,postgres,aws,docker&amp;theme=light&amp;perline=8">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnodejs%2Cpython%2Cpostgres%2Caws%2Cdocker&amp;theme=dark&amp;perline=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnodejs%2Cpython%2Cpostgres%2Caws%2Cdocker&amp;theme=light&amp;perline=8">
+    <img alt="TypeScript, JavaScript, React, Node.js, Python, PostgreSQL, AWS, and Docker" src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnodejs%2Cpython%2Cpostgres%2Caws%2Cdocker&amp;theme=light&amp;perline=8">
   </picture>
 </p>
 
