@@ -3,29 +3,30 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shangguming@gmail.com">Email</a> ·
-  <a href="https://github.com/sguming">GitHub</a>
+  <a href="mailto:shangguming@gmail.com">Email</a>
 </p>
 
 ## About
 
-I turn product ideas into useful, maintainable systems—connecting interfaces, APIs, data flows, automation, deployment, and real-world behavior.
+I build practical product systems that connect interfaces, APIs, data, automation, and real-world operations.
 
-- Build web and mobile products around clear user workflows
-- Design backend APIs, data models, authentication, and deployment pipelines
-- Prototype AI-assisted product workflows and developer tooling
-- Solve commerce, operations, maps, and location-based product problems
+- Ship web and mobile products around clear user workflows and measurable outcomes
+- Design backend APIs, data models, authentication, integrations, and delivery pipelines
+- Prototype AI-assisted workflows, commerce operations, and developer tooling
 
-## Current Focus
+**Now:** Shipping AI-assisted product workflows and improving commerce operations tooling.
 
-- Shipping AI-assisted product workflows
-- Building commerce and operations systems
-- Designing mobile-first user experiences
-- Automating repetitive developer and business processes
+**Open to:** `Full-stack product engineering` · `AI workflow prototyping` · `Automation & internal tools`
 
-## Open To
+## Public Practice
 
-`Full-stack product engineering` · `AI workflow prototyping` · `Automation & internal tools`
+### [leetcode-sdp](https://github.com/sguming/leetcode-sdp)
+
+Python solutions for selected LeetCode problems, with runnable examples and an approach-focused problem index.
+
+`Python` · `Hash tables` · `Two pointers` · `Sliding windows`
+
+> Public repositories focus on reusable engineering patterns, experiments, and learning notes. Client and production code remains private by design.
 
 ## Toolbox
 
@@ -41,30 +42,6 @@ I turn product ideas into useful, maintainable systems—connecting interfaces, 
   TypeScript · JavaScript · React · Node.js · Python · PostgreSQL · AWS · Docker
 </p>
 
-## Selected Public Work
-
-### [leetcode-sdp](https://github.com/sguming/leetcode-sdp)
-
-Python solutions for selected LeetCode problems, organized by problem and implementation approach.
-
-`Python` · `Hash tables` · `Two pointers` · `Sliding windows`
-
-> Most production and client work lives in private repositories; this profile focuses on public practice and reusable tooling.
-
-## GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sguming&amp;theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sguming&amp;theme=github">
-    <img alt="GitHub yearly contribution summary for sguming" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sguming&amp;theme=github" width="100%">
-  </picture>
-</p>
-
 ## How I Work
 
 > **Build small → verify real behavior → learn from feedback → keep it maintainable.**
-
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sguming&amp;style=flat-square&amp;color=0ea5e9">
-</p>
