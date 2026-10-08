@@ -1,0 +1,47 @@
+{
+  "scope": "Recorded local Docker learning lab, not a live service check",
+  "provenance": "Selected values exported from saved local ingestion, restart, and alert verification records. Original logs, identifiers, and machine paths are omitted.",
+  "verified_at_utc": "2026-10-07T19:12:47.371696+00:00",
+  "timezone": "Australia/Adelaide",
+  "elastic_stack_version": "7.17.29",
+  "baseline": {
+    "utc_time_range": {
+      "from": "2026-10-07T18:10:00.000Z",
+      "to": "2026-10-07T18:45:00.000Z"
+    },
+    "events": 234,
+    "http_404": 24
+  },
+  "container_recreation": {
+    "events": 234,
+    "http_404": 24,
+    "login_failures": 1,
+    "quarantine_lines": 1,
+    "new_input_events_after_restart": 0
+  },
+  "alert_rule": {
+    "aggType": "count",
+    "termField": "source.ip",
+    "thresholdComparator": ">",
+    "threshold": [
+      5
+    ],
+    "timeWindowSize": 15,
+    "timeWindowUnit": "m"
+  },
+  "alert_evaluation_interval": "1m",
+  "boundary_checks": [
+    {
+      "failed_login_count": 5,
+      "execution_status": "ok",
+      "active_alert_count": 0,
+      "ui_result": "No items found"
+    },
+    {
+      "failed_login_count": 6,
+      "execution_status": "active",
+      "active_alert_count": 1,
+      "ui_result": "Active (Threshold met)"
+    }
+  ]
+}
